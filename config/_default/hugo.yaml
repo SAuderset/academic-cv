@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: ''
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://sauderset.github.io/'
 
 ############################
 ## LANGUAGE
@@ -52,6 +52,7 @@ imaging:
   hint: picture
 timeout: 600000
 taxonomies:
+  category: categories
   author: authors
   tag: tags
   publication_type: publication_types
@@ -63,3 +64,9 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+# Preserve URLs from the previous Wowchemy site
+permalinks:
+  page:
+    publication: '/publication/:slug/'
+    project: '/resources/:slug/'

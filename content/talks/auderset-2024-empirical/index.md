@@ -1,0 +1,42 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: "An empirical and quantitative reassessment of morphological autonomy"
+type: event
+subtitle: 'Invited talk in the LLL Department Lecture Series, Nazarbayev University'
+event_name: 'Invited talk in the LLL Department Lecture Series, Nazarbayev University'
+location: ''
+summary: ''
+authors:
+- Sandra Auderset
+- Adam J.R. Tallman
+tags: []
+categories: []
+date: '2024-10-24'
+#lastmod: 2021-03-11T13:04:49+01:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2024'
+publication_types:
+- '0'
+abstract: ''
+publication: ''
+#url_pdf: https://youtu.be/tHjgcOJ2gpY
+---
+NA
+---
