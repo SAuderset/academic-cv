@@ -27,9 +27,9 @@ Since 2025, I also work in the neighboring village of Guadalupe Nundaca, where t
 
 
 #### Resources for download:
-+ reading and writing booklet (in Spanish) explaining the practical orthography - {{% staticref "downloads/SMD-0067-Lectoescritura.pdf" "newtab" %}}download the PDF{{% /staticref %}}
-+ overview of tone and its uses in the lexicon and grammar (in Spanish) - {{% staticref "downloads/auderset-2020-el-tono.pdf" "newtab" %}}download the slides{{% /staticref %}}
-+ preliminary analysis of verbal inflection (in Spanish) - {{% staticref "downloads/auderset-2019-hacia.pdf" "newtab" %}}download the slides{{% /staticref %}}
++ reading and writing booklet (in Spanish) explaining the practical orthography - [download the booklet](https://sites.google.com/view/mixteco-smd/recursos-resources#h.5auapryixk11)
++ overview of tone and its uses in the lexicon and grammar (in Spanish) - [download the slides](/talks/auderset-2020-el-tono/auderset-2020-el-tono.pdf)
++ preliminary analysis of verbal inflection (in Spanish)
 
 
 #### Timeline:
